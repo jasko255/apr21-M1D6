@@ -1,0 +1,27 @@
+body{
+   width: 300px;
+   height: fit-content;
+    margin: 40%;
+    padding: 20%;
+    align-items: stretch;
+    position: relative;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+.image  :hover {
+background-color: yellow;
+}
+table {
+    
+    border: 5px solid black;
+}
+td, th {
+    border: 2px solid black;
+}
+.price {
+    width: 50px;
+}
+
